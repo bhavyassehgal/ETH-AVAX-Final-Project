@@ -27,6 +27,8 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 
 5. Verify the smart contract.
 
+## Working Video
+You can have a look of my contract - https://www.loom.com/share/5411b4209ce54db39c51f3efef6fb36f?sid=4f7c0712-95fa-431e-a3b6-e4a3c983e7df
 
 ## Author
 @bhavyassehgal
@@ -35,4 +37,3 @@ Twitter - https://twitter.com/BhavyaaSehgal
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
-
